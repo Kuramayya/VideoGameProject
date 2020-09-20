@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.qa.restapi.TC1_VideoGameAPITest" duration-ms="5527" started-at="2020-09-20T00:19:03 PDT" finished-at="2020-09-20T00:19:08 PDT">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="5527" started-at="2020-09-20T00:19:03 PDT" finished-at="2020-09-20T00:19:08 PDT">
+      <class name="com.qa.restapi.TC1_VideoGameAPITest">
+        <test-method status="PASS" signature="test_getAllVideoGames()[pri:1, instance:com.qa.restapi.TC1_VideoGameAPITest@7d907bac]" name="test_getAllVideoGames" duration-ms="3242" started-at="2020-09-20T00:19:03 PDT" finished-at="2020-09-20T00:19:06 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_getAllVideoGames -->
+        <test-method status="PASS" signature="test_addVideoGame()[pri:2, instance:com.qa.restapi.TC1_VideoGameAPITest@7d907bac]" name="test_addVideoGame" duration-ms="829" started-at="2020-09-20T00:19:06 PDT" finished-at="2020-09-20T00:19:07 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_addVideoGame -->
+        <test-method status="PASS" signature="test_getVideoGame()[pri:3, instance:com.qa.restapi.TC1_VideoGameAPITest@7d907bac]" name="test_getVideoGame" duration-ms="1255" started-at="2020-09-20T00:19:07 PDT" finished-at="2020-09-20T00:19:08 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_getVideoGame -->
+        <test-method status="PASS" signature="test_putVideoGame()[pri:4, instance:com.qa.restapi.TC1_VideoGameAPITest@7d907bac]" name="test_putVideoGame" duration-ms="100" started-at="2020-09-20T00:19:08 PDT" finished-at="2020-09-20T00:19:08 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_putVideoGame -->
+        <test-method status="PASS" signature="test_deleteVideoGame()[pri:5, instance:com.qa.restapi.TC1_VideoGameAPITest@7d907bac]" name="test_deleteVideoGame" duration-ms="36" started-at="2020-09-20T00:19:08 PDT" finished-at="2020-09-20T00:19:08 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_deleteVideoGame -->
+      </class> <!-- com.qa.restapi.TC1_VideoGameAPITest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.qa.restapi.TC1_VideoGameAPITest -->
+</testng-results>
